@@ -7,6 +7,6 @@ In this project, I have dealt with the file compression and decompression.
       
 A shown in the above figure it consists of two sections.
 
-**1. Compressor Button :** The selected file is compressed to a smaller size and will return the compressed file .gz format.
+**1. Compressor Button :** The selected file is compressed to a smaller size and will return the compressed file in .gz format.
 
-**2. Decomprssor Button :** The compressed file of (.gz) format, the original conents of files are restored.
+**2. Decomprssor Button :** The compressed file of (.gz) format, the original conents of files are extracted.
