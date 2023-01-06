@@ -1,3 +1,4 @@
+# Compressor - Decompressor
 In this project, I have dealt with the file compression and decompression.
 
 ![image](https://user-images.githubusercontent.com/104886848/211005679-78980e79-7938-4287-9346-a40029b55fda.png)
